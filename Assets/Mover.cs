@@ -5,9 +5,9 @@ using UnityEngine;
 public class Mover : MonoBehaviour
 {
 
-    float xValue = 0f;
-    float yValue = 0.01f;
-    float zValue = 0f;
+    [SerializeField] float xValue = 0f;
+    [SerializeField] float yValue = 0.01f;
+    [SerializeField] float zValue = 0f;
 
     // Start is called before the first frame update
     void Start()
