@@ -4,6 +4,7 @@
     <list default="true" id="71aacbde-a937-49a6-b2d8-a9a30d99f89f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Obstacle Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Obstacle Course/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dropper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dropper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Mover.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
       <option value="$PROJECT_DIR$/Assets/ObjectHit.cs" />
       <option value="$PROJECT_DIR$/Assets/Scorer.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Dropper.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Mover.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oNuFkYqhlG6Boro5bXDLWPOich" />
@@ -80,7 +82,7 @@
       <workItem from="1613139320285" duration="147000" />
       <workItem from="1613139513884" duration="521000" />
       <workItem from="1613140080426" duration="95000" />
-      <workItem from="1613178554553" duration="3991000" />
+      <workItem from="1613178554553" duration="5293000" />
     </task>
     <servers />
   </component>
