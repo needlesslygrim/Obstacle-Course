@@ -341,7 +341,7 @@ GameObject:
   - component: {fileID: 386213530}
   - component: {fileID: 386213534}
   m_Layer: 0
-  m_Name: Falling Object
+  m_Name: Dropper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -435,6 +435,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c42abcd9febe2142aa85c834733e0fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  waitTime: 5
 --- !u!1 &414973405
 GameObject:
   m_ObjectHideFlags: 0
