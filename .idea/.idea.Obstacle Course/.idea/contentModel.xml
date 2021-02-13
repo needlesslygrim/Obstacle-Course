@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Mover.cs" t="Include" />
         <e p="ObjectHit.cs" t="Include" />
+        <e p="Scorer.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Obstacle Course.sln" t="IncludeFlat" />
